@@ -119,7 +119,7 @@
       "last_changed": "2026-10-08",
       "matched_destinations": [],
       "matched_origins": [],
-      "missing_runs": 0,
+      "missing_runs": 1,
       "notify": false,
       "origin_match": [],
       "reason": "无中国大陆核心或次级出发地 + 未识别目的地区域 + 明确促销活动",
