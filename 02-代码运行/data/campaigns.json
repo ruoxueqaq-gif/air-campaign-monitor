@@ -848,43 +848,6 @@
       "travel_period_zh": "",
       "url": "https://www.vietnamairlines.com/cn/zh/plan-book/LotuSociety/lotustudents-offers"
     },
-    "9c345467ae6144c5c07e": {
-      "active": true,
-      "airline": "AirAsia",
-      "booking_period": "these special fares from 19 - 25 October 2026, for travel between 2 November 2026 and 30 September 2",
-      "booking_period_zh": "这些特价机票适用于2026年10月19日至25日，适用于2026年11月2日至9月2日期间的旅行",
-      "content_hash": "227939f47c1cccb6247e0ab4cee32fb0fc55f7baff40bc84f47aab9bb9526d49",
-      "core_route_change": false,
-      "deal_strength": "GREAT",
-      "destination_match": [
-        "泰国",
-        "东南亚"
-      ],
-      "first_seen": "2026-10-19",
-      "has_explicit_price": false,
-      "has_promotion": true,
-      "id": "9c345467ae6144c5c07e",
-      "last_changed": "2026-10-19",
-      "matched_destinations": [
-        "泰国",
-        "东南亚"
-      ],
-      "matched_origins": [],
-      "missing_runs": 1,
-      "notify": false,
-      "origin_match": [],
-      "reason": "无中国大陆核心或次级出发地 + 泰国 + 东南亚目的地 + 明确促销活动 + 仅境外航线变化 + 仅旺季扩张/运力 PR",
-      "relevance": "LOW",
-      "relevance_score": 3,
-      "summary": "Your Next Great Adventure Awaits: AirAsia Launches \"Up to 30%* Off All Seats, All Flights\" for Year-End Getaways and Beyond The joy of year-end travel is fast approaching, and Thai AirAsia (FD) and Thai AirAsia X (XJ) are making your holiday planning easier than ever! We are going all out with our massive \"Up to 30%* Off All Seats, All Flights\" sale, covering every route across our entire network. Whether you're looking to jet off during the high season or lock in your long-awaited 2027 getaways early, this promo delivers the ultimate flexibility and unbeatable value. Book these special fares from 19 - 25 October 2026, for travel between 2 November 2026 and 30 September 2027. Read More Airlines , English , News , Thailand Tada Chaovanapunja October 19, 2026",
-      "summary_zh": "您的下一次伟大冒险正等待着您：亚航为年终度假及其他假期推出“所有座位、所有航班高达 30%* 折扣” 年终旅行的欢乐即将来临，泰国亚洲航空 (FD) 和泰国亚洲航空长程 (XJ) 让您的假期计划比以往更加轻松！我们将全力以赴开展大规模的“所有座位、所有航班最高 30%* 折扣”促销活动，覆盖我们整个网络的每条航线。无论您是想在旺季乘飞机出发，还是提前锁定期待已久的 2027 年假期，此促销活动都能提供终极的灵活性和无与伦比的价值。预订 2026 年 10 月 19 日至 25 日期间的特价机票，适用于 2026 年 11 月 2 日至 2027 年 9 月 30 日期间的旅行。 了解更多 Airlines , English , News , Thai Tada Chaovanapunja October 19, 2026",
-      "title": "Your Next Great Adventure Awaits: AirAsia Launches \"Up to 30%* Off All Seats, All Flights\" for Year-End Getaways and Beyond",
-      "title_zh": "您的下一次伟大冒险正在等待：亚航为年终度假及以后推出“所有座位、所有航班高达 30%* 折扣”",
-      "translation_pending": false,
-      "travel_period": "is fast approaching, and Thai AirAsia (FD) and Thai AirAsia X (XJ) are making your holiday planning",
-      "travel_period_zh": "即将来临，泰国亚洲航空 (FD) 和泰国亚洲航空长程 (XJ) 正在为您制定假期计划",
-      "url": "https://newsroom.airasia.com/news/your-next-great-adventure-awaits-airasia-launches-up-to-30-off-all-seats-all-flights-for-year-end-getaways-and-beyond"
-    },
     "a2f2084142fb0c8a6da5": {
       "active": true,
       "airline": "AirAsia",
