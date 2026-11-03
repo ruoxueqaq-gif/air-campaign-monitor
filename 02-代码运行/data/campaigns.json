@@ -235,41 +235,6 @@
       "travel_period_zh": "",
       "url": "https://www.singaporeair.com/en_UK/cn/ppsclub-krisflyer/krisflyer/krisflyer-milestone-rewards"
     },
-    "36ef4919a5444deb6cbc": {
-      "active": true,
-      "airline": "AirAsia",
-      "booking_period": "As Singaporeans prepare for year-end holidays and 2027 adventures, AirAsia is giving Singapore trave",
-      "booking_period_zh": "在新加坡人为年终假期和 2027 年冒险做准备之际，亚航为新加坡提供旅游服务",
-      "content_hash": "df2b0d72c66f475449960cb99754fe88a5b285bdbe7b720a3aee2520c46f9750",
-      "core_route_change": false,
-      "deal_strength": "GREAT",
-      "destination_match": [
-        "东南亚"
-      ],
-      "first_seen": "2026-10-19",
-      "has_explicit_price": false,
-      "has_promotion": true,
-      "id": "36ef4919a5444deb6cbc",
-      "last_changed": "2026-10-19",
-      "matched_destinations": [
-        "东南亚"
-      ],
-      "matched_origins": [],
-      "missing_runs": 1,
-      "notify": false,
-      "origin_match": [],
-      "reason": "无中国大陆核心或次级出发地 + 东南亚目的地 + 明确促销活动",
-      "relevance": "LOW",
-      "relevance_score": 7,
-      "summary": "AirAsia offers Singapore travellers more flexibility and savings with up to 30% off* All Seats, All Flights sale As Singaporeans prepare for year-end holidays and 2027 adventures, AirAsia is giving Singapore travellers more reasons to book early with its All Seats, All Flights sale, offering up to 30% off* flights, with a one-time change fee waiver** and up to 30% off*** Value Pack for added convenience. Read More Airlines , English , News , Singapore Sammy YE October 19, 2026 Singapore",
-      "summary_zh": "亚航为新加坡旅客提供高达 30% 的折扣* 全座位、全航班促销，为新加坡旅客提供更大的灵活性和节省空间 随着新加坡人为年终假期和 2027 年的冒险之旅做好准备，亚航为新加坡旅客提供更多提前预订全座位、全航班促销的理由，提供高达 30% 的航班折扣*、一次性改签费豁免**以及高达 30% 的折扣***超值套餐，为您带来更多便利。阅读更多 航空公司 , 中文 , 新闻 , 新加坡 Sammy YE 十月 19, 2026 新加坡",
-      "title": "AirAsia offers Singapore travellers more flexibility and savings with up to 30% off* All Seats, All Flights sale",
-      "title_zh": "亚航为新加坡旅客提供高达 30% 的折扣*，为新加坡旅客提供更大的灵活性和节省* 所有座位、所有航班促销",
-      "translation_pending": false,
-      "travel_period": "",
-      "travel_period_zh": "",
-      "url": "https://newsroom.airasia.com/news/airasia-offers-singapore-travellers-more-flexibility-and-savings-with-up-to-30-off-all-seats-all-flights-sale"
-    },
     "3ad25db68dff30da3d54": {
       "active": true,
       "airline": "AirAsia",
