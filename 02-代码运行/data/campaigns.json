@@ -68,41 +68,6 @@
       "travel_period_zh": "",
       "url": "https://newsroom.airasia.com/news/sc-celebrate-togetherness-this-deepavali-with-airasias-special-fares"
     },
-    "1500cb1ad0bbabf7c193": {
-      "active": true,
-      "airline": "AirAsia",
-      "booking_period": "",
-      "booking_period_zh": "",
-      "content_hash": "3edc42279ff52ea428893e9a6bd7c37241bc4e12b72ea51acf42a831b64f2ef6",
-      "core_route_change": false,
-      "deal_strength": "NORMAL",
-      "destination_match": [
-        "东南亚"
-      ],
-      "first_seen": "2026-10-19",
-      "has_explicit_price": false,
-      "has_promotion": false,
-      "id": "1500cb1ad0bbabf7c193",
-      "last_changed": "2026-10-19",
-      "matched_destinations": [
-        "东南亚"
-      ],
-      "matched_origins": [],
-      "missing_runs": 1,
-      "notify": false,
-      "origin_match": [],
-      "reason": "无中国大陆核心或次级出发地 + 东南亚目的地 + 无明确价格或促销",
-      "relevance": "LOW",
-      "relevance_score": 4,
-      "summary": "AirAsia tawar diskaun sehingga 30 peratus bagi semua tempat duduk dan penerbangan kepada pengembara dari Singapura Menjelang musim percutian hujung tahun dan pengembaraan baharu pada 2027, AirAsia menawarkan lebih penjimatan dan fleksibiliti kepada pengembara dari Singapura menerusi promosi Semua Tempat Duduk, Semua Penerbangan. Nikmati diskaun tambang penerbangan sehingga 30 peratus, pengecualian yuran pertukaran penerbangan untuk satu kali perubahan**, serta diskaun sehingga 30 peratus** bagi Pakej Value untuk pengalaman perjalanan yang lebih mudah dan selesa. Read More Airlines , Bahasa Malaysia , News , Singapore Ahmad Hafiy Ahmad Fezul - October 19, 2026 Singapura",
-      "summary_zh": "AirAsia offers up to 30 percent discount on all seats and flights to travelers from Singapore Ahead of the year-end holiday season and new adventures in 2027, AirAsia is offering more savings and flexibility to travelers from Singapore through its All Seats, All Flights promotion. Enjoy airfare discounts of up to 30 percent, flight change fee waivers for one change**, as well as discounts of up to 30 percent** on Value Packages for an easier and more comfortable travel experience.了解更多 航空公司、马来语、新闻、新加坡 Ahmad Hafiy Ahmad Fezul - 2026 年 10 月 19 日新加坡",
-      "title": "AirAsia tawar diskaun sehingga 30 peratus bagi semua tempat duduk dan penerbangan kepada pengembara dari Singapura",
-      "title_zh": "亚航为来自新加坡的旅客提供高达 30% 的所有座位和航班折扣",
-      "translation_pending": false,
-      "travel_period": "",
-      "travel_period_zh": "",
-      "url": "https://newsroom.airasia.com/news/airasia-tawar-diskaun-sehingga-30-peratus-bagi-semua-tempat-duduk-dan-penerbangan-kepada-pengembara-dari-singapura"
-    },
     "1e71901c90a5a6d216b6": {
       "active": true,
       "airline": "Vietnam Airlines",
