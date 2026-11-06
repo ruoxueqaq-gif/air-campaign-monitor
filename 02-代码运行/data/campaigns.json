@@ -877,41 +877,6 @@
       "travel_period_zh": "",
       "url": "https://www.vietnamairlines.com/zh-cn/nhom-lon-gia-nho-online-vietnam-airlines"
     },
-    "c9127df38a431656be32": {
-      "active": true,
-      "airline": "AirAsia",
-      "booking_period": "",
-      "booking_period_zh": "",
-      "content_hash": "4c325e79fea7d93d6e58a06cd24ac79a5b6eb03afd0e57b5c36757dc872b2e65",
-      "core_route_change": false,
-      "deal_strength": "GREAT",
-      "destination_match": [
-        "东南亚"
-      ],
-      "first_seen": "2026-10-19",
-      "has_explicit_price": false,
-      "has_promotion": false,
-      "id": "c9127df38a431656be32",
-      "last_changed": "2026-10-19",
-      "matched_destinations": [
-        "东南亚"
-      ],
-      "matched_origins": [],
-      "missing_runs": 1,
-      "notify": false,
-      "origin_match": [],
-      "reason": "无中国大陆核心或次级出发地 + 东南亚目的地 + 无明确价格或促销",
-      "relevance": "LOW",
-      "relevance_score": 4,
-      "summary": "Sambut Liburan Akhir Tahun, AirAsia Hadirkan Diskon hingga 30% untuk Semua Kursi dan Semua Penerbangan di Berbagai Rute Internasional* Berencana liburan akhir tahun? Saatnya mulai merencanakan perjalanan dan menikmati penawaran menarik dari AirAsia! Melalui promo All Seats, All Flights, AirAsia menawarkan diskon hingga 30%* untuk semua kursi dan penerbangan di rute internasional yang dimiliki. Tak hanya itu, tersedia juga diskon hingga 30%* untuk kursi Premium Flatbed andalan AirAsia X (D7) yang telah meraih berbagai penghargaan, untuk pengalaman terbang yang lebih nyaman. Read More Bahasa Indonesia AirAsia Indonesia October 19, 2026 Jakarta",
-      "summary_zh": "迎接年末假期，亚航为各种国际航线*的所有座位和所有航班提供高达 30% 的折扣* 计划年末假期吗？是时候开始计划您的旅行并享受亚航的诱人优惠了！通过“全座位、全航班”促销活动，亚航为其国际航线的所有座位和航班提供高达 30%* 的折扣。不仅如此，亚航长程屡获殊荣的旗舰级高级平躺座椅（D7）还享有高达30%*的折扣，带来更舒适的飞行体验。了解更多 印度尼西亚亚洲航空 印度尼西亚 2026 年 10 月 19 日 雅加达",
-      "title": "Sambut Liburan Akhir Tahun, AirAsia Hadirkan Diskon hingga 30% untuk Semua Kursi dan Semua Penerbangan di Berbagai Rute Internasional*",
-      "title_zh": "迎接年末假期，亚航为各国际航线的所有座位和所有航班提供高达 30% 的折扣*",
-      "translation_pending": false,
-      "travel_period": "",
-      "travel_period_zh": "",
-      "url": "https://newsroom.airasia.com/news/2026/10/19/sambut-liburan-akhir-tahun-airasia-hadirkan-diskon-hingga-30-untuk-semua-kursi-dan-semua-penerbangan-di-berbagai-rute-internasional"
-    },
     "d3b3f8eee1af891917ac": {
       "active": true,
       "airline": "JAL",
