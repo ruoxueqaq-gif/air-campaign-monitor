@@ -840,43 +840,6 @@
       "travel_period_zh": "",
       "url": "https://www.vietnamairlines.com/cn/zh/plan-book/LotuSociety/lotustudents-offers"
     },
-    "a2f2084142fb0c8a6da5": {
-      "active": true,
-      "airline": "AirAsia",
-      "booking_period": "",
-      "booking_period_zh": "",
-      "content_hash": "743e79cf1f1d48be8a5123685af84303bab13e5db8bb166d44f345f7145e4396",
-      "core_route_change": false,
-      "deal_strength": "NORMAL",
-      "destination_match": [
-        "泰国",
-        "东南亚"
-      ],
-      "first_seen": "2026-10-19",
-      "has_explicit_price": false,
-      "has_promotion": false,
-      "id": "a2f2084142fb0c8a6da5",
-      "last_changed": "2026-10-19",
-      "matched_destinations": [
-        "泰国",
-        "东南亚"
-      ],
-      "matched_origins": [],
-      "missing_runs": 1,
-      "notify": false,
-      "origin_match": [],
-      "reason": "无中国大陆核心或次级出发地 + 泰国 + 东南亚目的地 + 仅境外航线变化 + 仅旺季扩张/运力 PR",
-      "relevance": "LOW",
-      "relevance_score": -2,
-      "summary": "Thai AirAsia Reinforces Position as “Thailand’s True Aviation Leader,” Launching “Faaw Ma Faa Mai” Music Video with F.HERO and Lamyai Haithongkham to Drive Year-End Tourism Thai AirAsia has announced its full operational readiness to accommodate travelers during the upcoming high season with the launch of its new campaign track and music video, ‘Faaw Ma Faa Mai’ (Hurry to New Skies). Aimed at stimulating domestic tourism, the project features a blockbuster collaboration between two iconic artists of the era: top-tier rapper ‘F.HERO’ and pop-lukthung sensation ‘Lamyai Haithongkham’. This strategic campaign reinforces Thai AirAsia’s brand positioning as the top-of-mind airline for consumers, underpinned by Thailand's most comprehensive domestic flight network, exceptional on-time performance",
-      "summary_zh": "泰国亚洲航空巩固了“泰国真正航空领导者”的地位，与 F.HERO 和 Lamyai Haithongkham 合作推出“Faaw Ma Faa Mai”音乐视频，推动年终旅游业 泰国亚洲航空宣布，推出全新宣传歌曲和音乐视频“Faaw Ma Faa Mai”（快点到新天空），为即将到来的旺季旅客提供全面的运营准备。该项目旨在刺激国内旅游业，以当时两位标志性艺术家之间的轰动性合作为特色：顶级说唱歌手“F.HERO”和流行乐歌手“Lamyai Haithongkham”。这项战略活动巩固了泰国亚洲航空作为消费者心目中首选航空公司的品牌定位，并以泰国最全面的国内航班网络和卓越的准点率为基础",
-      "title": "Thai AirAsia Reinforces Position as “Thailand’s True Aviation Leader,” Launching “Faaw Ma Faa Mai” Music Video with F.HERO and Lamyai Haithongkham to Drive Year-End Tourism",
-      "title_zh": "泰国亚洲航空巩固“泰国真正航空领导者”的地位，与 F.HERO 和 Lamyai Haithongkham 合作推出“Faaw Ma Faa Mai”音乐视频，推动年末旅游业",
-      "translation_pending": false,
-      "travel_period": "",
-      "travel_period_zh": "",
-      "url": "https://newsroom.airasia.com/news/thai-airasia-reinforces-position-as-thailands-true-aviation-leader-launching-faaw-ma-faa-mai-music-video-with-fhero-and-lamyai-haithongkham-to-drive-year-end-tourism"
-    },
     "b81c071d4d5bd80a0273": {
       "active": true,
       "airline": "Vietnam Airlines",
