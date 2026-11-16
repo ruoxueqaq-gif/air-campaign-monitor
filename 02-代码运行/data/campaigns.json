@@ -99,6 +99,41 @@
       "travel_period_zh": "",
       "url": "https://www.vietnamairlines.com/zh-cn/lotusmiles-offers"
     },
+    "1e99bbc2ae0e05c0f73c": {
+      "active": true,
+      "airline": "AirAsia",
+      "booking_period": "",
+      "booking_period_zh": "",
+      "content_hash": "01fdd297e01a066c1a62723eb09cc188cef735ff8c14ae0ca939dfc64aa22519",
+      "core_route_change": false,
+      "deal_strength": "GREAT",
+      "destination_match": [
+        "东南亚"
+      ],
+      "first_seen": "2026-11-16",
+      "has_explicit_price": false,
+      "has_promotion": true,
+      "id": "1e99bbc2ae0e05c0f73c",
+      "last_changed": "2026-11-16",
+      "matched_destinations": [
+        "东南亚"
+      ],
+      "matched_origins": [],
+      "missing_runs": 0,
+      "notify": false,
+      "origin_match": [],
+      "reason": "无中国大陆核心或次级出发地 + 东南亚目的地 + 明确促销活动",
+      "relevance": "LOW",
+      "relevance_score": 7,
+      "summary": "亚航推出东盟独家旅游优惠 票价119令吉*起 Value Pack高达30%折扣 亚航推出东盟独家旅游优惠，票价119令吉起，让旅客以更优惠的价格探索其广泛航线网络覆盖的多个目的地。旅客可享有从今年11月底至明年10月的出行选择，同时享有高达30%的Value Pack折扣*，为旅程增添更多便利与灵活性。 Read More Airlines , Malaysia , News , 简体中文 Sammy YE November 16, 2026 Sepang",
+      "summary_zh": "亚航推出东盟独家旅游优惠 票价119令吉*起 Value Pack高达30%折扣 亚航推出东盟独家旅游优惠，票价119令吉起，让旅客以更优惠的价格探索其广泛航线网络覆盖的多个目的地。旅客可享有从今年11月底至明年10月的出行选择，同时享有高达30%的Value Pack折扣*，为旅程增添更多便利与灵活性。 Read More Airlines , Malaysia , News , 简体中文 Sammy YE November 16, 2026 Sepang",
+      "title": "亚航推出东盟独家旅游优惠 票价119令吉*起 Value Pack高达30%折扣",
+      "title_zh": "亚航推出东盟独家旅游优惠 票价119令吉*起 Value Pack高达30%折扣",
+      "translation_pending": false,
+      "travel_period": "",
+      "travel_period_zh": "",
+      "url": "https://newsroom.airasia.com/news/airasia-rolls-out-exclusive-asean-travel-deals-with-fares-from-rm119-and-up-to-30-off-value-pack-sc"
+    },
     "27fca8b7ac66d5386a07": {
       "active": true,
       "airline": "Singapore Airlines",
@@ -902,6 +937,37 @@
       "travel_period_zh": "",
       "url": "https://www.vietnamairlines.com/zh-cn/nhom-lon-gia-nho-online-vietnam-airlines"
     },
+    "ba9d825c9ae041819747": {
+      "active": true,
+      "airline": "Scoot",
+      "booking_period": "",
+      "booking_period_zh": "",
+      "content_hash": "0e8067a1d616e3cbaadff82fb48290c35dc1d031ea0e348f00f07d00453e9061",
+      "core_route_change": false,
+      "deal_strength": "NORMAL",
+      "destination_match": [],
+      "first_seen": "2026-11-16",
+      "has_explicit_price": false,
+      "has_promotion": false,
+      "id": "ba9d825c9ae041819747",
+      "last_changed": "2026-11-16",
+      "matched_destinations": [],
+      "matched_origins": [],
+      "missing_runs": 0,
+      "notify": false,
+      "origin_match": [],
+      "reason": "无中国大陆核心或次级出发地 + 未识别目的地区域 + 无明确价格或促销",
+      "relevance": "LOW",
+      "relevance_score": 0,
+      "summary": "立即兑换，即可享受酷航精选 Saver 奖励机票八五折优惠。",
+      "summary_zh": "立即兑换，即可享受酷航精选 Saver 奖励机票八五折优惠。",
+      "title": "自由而飞",
+      "title_zh": "自由而飞",
+      "translation_pending": false,
+      "travel_period": "",
+      "travel_period_zh": "",
+      "url": "https://www.flyscoot.com/zh/krisflyer/spontaneous-escapes"
+    },
     "d3b3f8eee1af891917ac": {
       "active": true,
       "airline": "JAL",
@@ -1048,7 +1114,7 @@
         "澳大利亚"
       ],
       "matched_origins": [],
-      "missing_runs": 0,
+      "missing_runs": 1,
       "notify": false,
       "origin_match": [],
       "reason": "无中国大陆核心或次级出发地 + 东南亚 + 澳大利亚目的地 + 明确促销活动",
@@ -1062,6 +1128,41 @@
       "travel_period": "",
       "travel_period_zh": "",
       "url": "https://newsroom.airasia.com/news/celebrate-togetherness-this-deepavali-with-airasias-special-fares"
+    },
+    "ffb8bd8cdf2b19d9d72a": {
+      "active": true,
+      "airline": "AirAsia",
+      "booking_period": "",
+      "booking_period_zh": "",
+      "content_hash": "6436255d6b8e7e980aec8d9d5308fa4ecfe1609fb5d799e079cbfe257e6f8a95",
+      "core_route_change": false,
+      "deal_strength": "GREAT",
+      "destination_match": [
+        "东南亚"
+      ],
+      "first_seen": "2026-11-16",
+      "has_explicit_price": false,
+      "has_promotion": true,
+      "id": "ffb8bd8cdf2b19d9d72a",
+      "last_changed": "2026-11-16",
+      "matched_destinations": [
+        "东南亚"
+      ],
+      "matched_origins": [],
+      "missing_runs": 0,
+      "notify": false,
+      "origin_match": [],
+      "reason": "无中国大陆核心或次级出发地 + 东南亚目的地 + 明确促销活动",
+      "relevance": "LOW",
+      "relevance_score": 7,
+      "summary": "AirAsia rolls out exclusive Asean travel deals with fares from RM119* and up to 30% off Value Pack AirAsia is rolling out an exclusive Asean travel deal, with fares from RM119*, giving travellers more opportunities to explore destinations across its extensive network. With travel available through October next year, travellers can also enjoy up to 30% off* Value Pack, adding greater convenience and flexibility to their journey. Read More Airlines , English , Global , Malaysia , News Sammy YE November 16, 2026 Sepang",
+      "summary_zh": "亚航推出独家东盟旅行优惠，票价从 RM119* 起，超值包高达 30% 折扣 亚航推出独家东盟旅行优惠，票价从 RM119* 起，让旅客有更多机会探索其广泛网络中的目的地。明年 10 月之前均可旅行，旅客还可以享受高达 30% 的折扣*超值套餐，为他们的旅程增添更多便利和灵活性。阅读更多 航空公司 , 英语 , 全球 , 马来西亚 , 新闻 Sammy YE 十一月 16, 2026 雪邦",
+      "title": "AirAsia rolls out exclusive Asean travel deals with fares from RM119* and up to 30% off Value Pack",
+      "title_zh": "亚航推出独家东盟旅行优惠，票价从 RM119* 起，超值包高达 30% 折扣",
+      "translation_pending": false,
+      "travel_period": "deals with fares from RM119* and up to 30% off Value Pack AirAsia is rolling out an exclusive Asean",
+      "travel_period_zh": "票价从 RM119* 起，超值包高达 30% 折扣 亚航推出东盟独家优惠",
+      "url": "https://newsroom.airasia.com/news/airasia-rolls-out-exclusive-asean-travel-deals-with-fares-from-rm119-and-up-to-30-off-value-pack"
     }
   },
   "schema_version": 1
