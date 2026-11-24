@@ -1,4 +1,4 @@
-# airline-campaign-monitor
+# 航空公司促销公告监控
 
 | 入口 | 用途 |
 | --- | --- |

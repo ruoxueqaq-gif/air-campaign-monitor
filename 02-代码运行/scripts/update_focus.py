@@ -27,6 +27,11 @@ def booking_deadline(record):
     return max(dates) if dates else None
 
 
+def chinese_deal_text(value):
+    value = value.replace('KrisFlyer 自发逃逸', 'KrisFlyer 随心逍遥').replace('Value Pack', '超值套餐')
+    return value.split(' Read More Airlines ,', 1)[0]
+
+
 def mark_rows(rows, records, today):
     output = []
     for row in rows:
@@ -34,6 +39,9 @@ def mark_rows(rows, records, today):
         if record and record_is_expired(record, today):
             continue
         row = dict(row)
+        for field in ('促销标题', '摘要'):
+            if row.get(field):
+                row[field] = chinese_deal_text(row[field])
         origins = set(record.get('origin_match') or record.get('matched_origins') or [])
         origin_rank = 0 if origins & {'HGH','PVG','SHA'} else 1 if origins & {'NKG','NGB'} else 2
         deadline = booking_deadline(record)
@@ -55,7 +63,7 @@ def build(root, today):
     headers, rows = read_table(project_path(root, 'csv/01_重点关注/my_best_deals.csv'))
     state = json.loads((root / 'data/campaigns.json').read_text(encoding='utf-8'))
     records = {r.get('url'):r for r in state.get('campaigns', {}).values()}
-    return {'csv/01_重点关注/01_my_best_deals.csv':table(['重点标记','购票截止日期','截止日期说明']+headers, mark_rows(rows, records, today))}
+    return {'csv/01_重点关注/01_航空促销重点表.csv':table(['重点标记','购票截止日期','截止日期说明']+headers, mark_rows(rows, records, today))}
 
 
 if __name__ == '__main__':
